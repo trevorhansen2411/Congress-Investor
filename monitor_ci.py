@@ -14,7 +14,9 @@ if not QUIVER_TOKEN:
     print("ERROR: QUIVER_TOKEN env var not set (add it as a GitHub secret)."); sys.exit(1)
 
 MIN_MEMBERS, WINDOW_DAYS, LOOKBACK_DAYS, LAG_DAYS = 4, 30, 200, 45
-EXCLUDE = {"ro khanna"}          # hyperactive managed accounts — don't count toward conviction
+# Empty = match the backtested definition exactly (the 53%/60% hit-rates on the page
+# were measured WITHOUT excluding anyone, so the live monitor must match to stay honest).
+EXCLUDE = set()
 
 import requests
 try:
@@ -39,8 +41,9 @@ for x in raw:
     if "purchase" not in str(x.get("Transaction", "")).lower() and "buy" not in str(x.get("Transaction", "")).lower():
         continue
     tk = str(x.get("Ticker", "")).upper().strip()
-    d = str(x.get("TransactionDate", ""))[:10]
-    m = canon(str(x.get("Representative", x.get("Name", ""))))
+    # Quiver's bulk feed uses "Traded" for the transaction date and "Name" for the member.
+    d = str(x.get("TransactionDate") or x.get("Traded") or x.get("Date") or "")[:10]
+    m = canon(str(x.get("Representative") or x.get("Name") or x.get("Senator") or ""))
     if not (tk.isalpha() and 1 <= len(tk) <= 5) or not re.match(r"\d{4}-\d{2}-\d{2}", d):
         continue
     if (tk, d, m) in seen: continue
