@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27 03:23 UTC",
+  "generated": "2026-07-27 18:00 UTC",
   "alerts": [
     {
       "ticker": "MSFT",
@@ -215,19 +215,6 @@
       "days_live": 115
     },
     {
-      "ticker": "AAPL",
-      "signal": "2026-02-12",
-      "size": 4,
-      "members": [
-        "Cleo Fields",
-        "Ed Case",
-        "Julia Letlow",
-        "Ro Khanna"
-      ],
-      "actionable": true,
-      "days_live": 120
-    },
-    {
       "ticker": "META",
       "signal": "2026-02-12",
       "size": 4,
@@ -236,6 +223,19 @@
         "Gilbert Cisneros",
         "Julia Letlow",
         "Michael Mccaul"
+      ],
+      "actionable": true,
+      "days_live": 120
+    },
+    {
+      "ticker": "AAPL",
+      "signal": "2026-02-12",
+      "size": 4,
+      "members": [
+        "Cleo Fields",
+        "Ed Case",
+        "Julia Letlow",
+        "Ro Khanna"
       ],
       "actionable": true,
       "days_live": 120
@@ -256,10 +256,11 @@
     {
       "ticker": "SPCX",
       "signal": "2026-06-18",
-      "size": 5,
+      "size": 6,
       "members": [
         "Daniel Meuser",
         "Gilbert Cisneros",
+        "Jared Moskowitz",
         "John James",
         "John Mcguire",
         "William Timmons Iv"
