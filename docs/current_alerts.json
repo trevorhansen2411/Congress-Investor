@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07 15:12 UTC",
+  "generated": "2026-08-10 15:32 UTC",
   "alerts": [
     {
       "ticker": "MSFT",
@@ -15,7 +15,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 67
+      "days_live": 70
     },
     {
       "ticker": "SPCX",
@@ -30,7 +30,7 @@
         "William Timmons Iv"
       ],
       "actionable": true,
-      "days_live": 5
+      "days_live": 8
     },
     {
       "ticker": "UNH",
@@ -44,7 +44,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 88
+      "days_live": 91
     },
     {
       "ticker": "AMZN",
@@ -58,7 +58,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 138
+      "days_live": 141
     },
     {
       "ticker": "AMD",
@@ -71,7 +71,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 60
+      "days_live": 63
     },
     {
       "ticker": "AXP",
@@ -84,7 +84,7 @@
         "Shelley Moore Capito"
       ],
       "actionable": true,
-      "days_live": 84
+      "days_live": 87
     },
     {
       "ticker": "GOOG",
@@ -97,7 +97,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 85
+      "days_live": 88
     },
     {
       "ticker": "PYPL",
@@ -110,7 +110,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 88
+      "days_live": 91
     },
     {
       "ticker": "NVDA",
@@ -123,7 +123,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 88
+      "days_live": 91
     },
     {
       "ticker": "NFLX",
@@ -136,7 +136,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 88
+      "days_live": 91
     },
     {
       "ticker": "WDAY",
@@ -149,7 +149,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 88
+      "days_live": 91
     },
     {
       "ticker": "PANW",
@@ -162,7 +162,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 88
+      "days_live": 91
     },
     {
       "ticker": "HD",
@@ -175,7 +175,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 89
+      "days_live": 92
     },
     {
       "ticker": "NOW",
@@ -188,20 +188,7 @@
         "Tony Wied"
       ],
       "actionable": true,
-      "days_live": 109
-    },
-    {
-      "ticker": "MU",
-      "signal": "2026-02-24",
-      "size": 4,
-      "members": [
-        "Cleo Fields",
-        "Gilbert Cisneros",
-        "Ro Khanna",
-        "Tony Wied"
-      ],
-      "actionable": true,
-      "days_live": 119
+      "days_live": 112
     },
     {
       "ticker": "AVGO",
@@ -214,7 +201,7 @@
         "Tony Wied"
       ],
       "actionable": true,
-      "days_live": 124
+      "days_live": 127
     },
     {
       "ticker": "PG",
@@ -227,7 +214,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 126
+      "days_live": 129
     },
     {
       "ticker": "META",
@@ -240,7 +227,7 @@
         "Michael Mccaul"
       ],
       "actionable": true,
-      "days_live": 131
+      "days_live": 134
     },
     {
       "ticker": "AAPL",
@@ -253,7 +240,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 131
+      "days_live": 134
     },
     {
       "ticker": "GOOGL",
@@ -266,7 +253,33 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 151
+      "days_live": 154
+    },
+    {
+      "ticker": "LLY",
+      "signal": "2026-01-23",
+      "size": 4,
+      "members": [
+        "Angus King",
+        "Markwayne Mullin",
+        "Michael Rulli",
+        "Ro Khanna"
+      ],
+      "actionable": true,
+      "days_live": 154
+    },
+    {
+      "ticker": "MU",
+      "signal": "2026-07-10",
+      "size": 4,
+      "members": [
+        "Dan Newhouse",
+        "Michael Rulli",
+        "Ro Khanna",
+        "Sheldon Whitehouse"
+      ],
+      "actionable": false,
+      "days_live": -14
     },
     {
       "ticker": "T",
@@ -279,7 +292,7 @@
         "Tim Moore"
       ],
       "actionable": false,
-      "days_live": -6
+      "days_live": -3
     }
   ]
 }
