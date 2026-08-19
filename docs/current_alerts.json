@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18 14:06 UTC",
+  "generated": "2026-08-19 14:07 UTC",
   "alerts": [
     {
       "ticker": "MSFT",
@@ -15,7 +15,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 78
+      "days_live": 79
     },
     {
       "ticker": "SPCX",
@@ -30,7 +30,7 @@
         "William Timmons Iv"
       ],
       "actionable": true,
-      "days_live": 16
+      "days_live": 17
     },
     {
       "ticker": "UNH",
@@ -44,7 +44,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 99
+      "days_live": 100
     },
     {
       "ticker": "AMZN",
@@ -58,7 +58,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 149
+      "days_live": 150
     },
     {
       "ticker": "T",
@@ -71,7 +71,7 @@
         "Tim Moore"
       ],
       "actionable": true,
-      "days_live": 5
+      "days_live": 6
     },
     {
       "ticker": "AMD",
@@ -84,7 +84,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 71
+      "days_live": 72
     },
     {
       "ticker": "AXP",
@@ -97,7 +97,7 @@
         "Shelley Moore Capito"
       ],
       "actionable": true,
-      "days_live": 95
+      "days_live": 96
     },
     {
       "ticker": "GOOG",
@@ -110,7 +110,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 96
+      "days_live": 97
     },
     {
       "ticker": "PYPL",
@@ -123,7 +123,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 99
+      "days_live": 100
     },
     {
       "ticker": "PANW",
@@ -136,7 +136,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 99
+      "days_live": 100
     },
     {
       "ticker": "WDAY",
@@ -149,7 +149,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 99
+      "days_live": 100
     },
     {
       "ticker": "NVDA",
@@ -162,7 +162,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 99
+      "days_live": 100
     },
     {
       "ticker": "NFLX",
@@ -175,7 +175,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 99
+      "days_live": 100
     },
     {
       "ticker": "HD",
@@ -188,7 +188,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 100
+      "days_live": 101
     },
     {
       "ticker": "NOW",
@@ -201,7 +201,7 @@
         "Tony Wied"
       ],
       "actionable": true,
-      "days_live": 120
+      "days_live": 121
     },
     {
       "ticker": "AVGO",
@@ -214,7 +214,7 @@
         "Tony Wied"
       ],
       "actionable": true,
-      "days_live": 135
+      "days_live": 136
     },
     {
       "ticker": "PG",
@@ -227,20 +227,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 137
-    },
-    {
-      "ticker": "META",
-      "signal": "2026-02-12",
-      "size": 4,
-      "members": [
-        "Cleo Fields",
-        "Gilbert Cisneros",
-        "Julia Letlow",
-        "Michael Mccaul"
-      ],
-      "actionable": true,
-      "days_live": 142
+      "days_live": 138
     },
     {
       "ticker": "AAPL",
@@ -253,7 +240,20 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 142
+      "days_live": 143
+    },
+    {
+      "ticker": "META",
+      "signal": "2026-02-12",
+      "size": 4,
+      "members": [
+        "Cleo Fields",
+        "Gilbert Cisneros",
+        "Julia Letlow",
+        "Michael Mccaul"
+      ],
+      "actionable": true,
+      "days_live": 143
     },
     {
       "ticker": "MU",
@@ -266,7 +266,7 @@
         "Sheldon Whitehouse"
       ],
       "actionable": false,
-      "days_live": -6
+      "days_live": -5
     }
   ]
 }
