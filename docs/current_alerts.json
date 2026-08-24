@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21 14:07 UTC",
+  "generated": "2026-08-24 14:26 UTC",
   "alerts": [
     {
       "ticker": "MSFT",
@@ -15,7 +15,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 81
+      "days_live": 84
     },
     {
       "ticker": "SPCX",
@@ -30,7 +30,7 @@
         "William Timmons Iv"
       ],
       "actionable": true,
-      "days_live": 19
+      "days_live": 22
     },
     {
       "ticker": "UNH",
@@ -44,21 +44,20 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 102
+      "days_live": 105
     },
     {
-      "ticker": "AMZN",
-      "signal": "2026-02-05",
-      "size": 5,
+      "ticker": "MU",
+      "signal": "2026-07-10",
+      "size": 4,
       "members": [
-        "David Taylor",
-        "Gilbert Cisneros",
-        "Jonathan Jackson",
-        "Nancy Pelosi",
-        "Ro Khanna"
+        "Dan Newhouse",
+        "Michael Rulli",
+        "Ro Khanna",
+        "Sheldon Whitehouse"
       ],
       "actionable": true,
-      "days_live": 152
+      "days_live": 0
     },
     {
       "ticker": "T",
@@ -71,7 +70,7 @@
         "Tim Moore"
       ],
       "actionable": true,
-      "days_live": 8
+      "days_live": 11
     },
     {
       "ticker": "AMD",
@@ -84,7 +83,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 74
+      "days_live": 77
     },
     {
       "ticker": "AXP",
@@ -97,7 +96,7 @@
         "Shelley Moore Capito"
       ],
       "actionable": true,
-      "days_live": 98
+      "days_live": 101
     },
     {
       "ticker": "GOOG",
@@ -110,7 +109,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 99
+      "days_live": 102
     },
     {
       "ticker": "PYPL",
@@ -123,7 +122,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 102
+      "days_live": 105
     },
     {
       "ticker": "PANW",
@@ -136,7 +135,20 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 102
+      "days_live": 105
+    },
+    {
+      "ticker": "AMZN",
+      "signal": "2026-03-27",
+      "size": 4,
+      "members": [
+        "Alan Armstrong",
+        "David Taylor",
+        "Gilbert Cisneros",
+        "Ro Khanna"
+      ],
+      "actionable": true,
+      "days_live": 105
     },
     {
       "ticker": "WDAY",
@@ -149,7 +161,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 102
+      "days_live": 105
     },
     {
       "ticker": "NVDA",
@@ -162,7 +174,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 102
+      "days_live": 105
     },
     {
       "ticker": "NFLX",
@@ -175,7 +187,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 102
+      "days_live": 105
     },
     {
       "ticker": "HD",
@@ -188,7 +200,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 103
+      "days_live": 106
     },
     {
       "ticker": "NOW",
@@ -201,7 +213,7 @@
         "Tony Wied"
       ],
       "actionable": true,
-      "days_live": 123
+      "days_live": 126
     },
     {
       "ticker": "AVGO",
@@ -214,7 +226,7 @@
         "Tony Wied"
       ],
       "actionable": true,
-      "days_live": 138
+      "days_live": 141
     },
     {
       "ticker": "PG",
@@ -227,7 +239,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 140
+      "days_live": 143
     },
     {
       "ticker": "AAPL",
@@ -240,7 +252,7 @@
         "Ro Khanna"
       ],
       "actionable": true,
-      "days_live": 145
+      "days_live": 148
     },
     {
       "ticker": "META",
@@ -253,20 +265,7 @@
         "Michael Mccaul"
       ],
       "actionable": true,
-      "days_live": 145
-    },
-    {
-      "ticker": "MU",
-      "signal": "2026-07-10",
-      "size": 4,
-      "members": [
-        "Dan Newhouse",
-        "Michael Rulli",
-        "Ro Khanna",
-        "Sheldon Whitehouse"
-      ],
-      "actionable": false,
-      "days_live": -3
+      "days_live": 148
     }
   ]
 }
